@@ -1,7 +1,5 @@
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 # Resumo do projeto
-Projeto em andamento, sendo realizado durante aulas do curso Mobile-first da Alura. Estudo #Mobile-First; #Plataforma de livros 
+Projeto concluido, sendo realizado durante aulas do curso Mobile-first da Alura. Estudo #Mobile-First; #Plataforma de livros 
 
 ## 🔨 Desafios do projeto
 
